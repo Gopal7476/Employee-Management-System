@@ -8,6 +8,6 @@ This application uses the advanced technology stack to implement the functionali
 
 Run
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Select Project -> Run as Spring Boot App.
-Project runs on port 9090.
-http://localhost:9090/api 
+- Select Project -> Run as Spring Boot App.
+- Project runs on port 9090.
+- http://localhost:9090/api 
